@@ -3,7 +3,7 @@
 '''
 @Project ：DailyReportingService
 @File    ：main.py
-@Author  ：Mondayice14
+@Author  ：Mondayice
 @Date    ：2023年11月7日
 '''
 
